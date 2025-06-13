@@ -27,3 +27,4 @@ Customer support sentiment tracking
 Financial forecasting from news sentiment
 *output*
 ![Image](https://github.com/user-attachments/assets/cef847b8-1061-4af8-b72b-0b4313e32a98)
+![Image](https://github.com/user-attachments/assets/40f6cf5e-42b2-4e82-83e6-93328ce9ff49)
