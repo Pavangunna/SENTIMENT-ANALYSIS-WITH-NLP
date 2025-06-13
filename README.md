@@ -26,3 +26,4 @@ Social media monitoring (e.g., Twitter sentiment about a brand)
 Customer support sentiment tracking
 Financial forecasting from news sentiment
 *output*
+![Image](https://github.com/user-attachments/assets/cef847b8-1061-4af8-b72b-0b4313e32a98)
